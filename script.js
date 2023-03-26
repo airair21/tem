@@ -69,7 +69,7 @@ const hairs = [
     "year": 2018,
     "month_day": "November 23",
     "color": "Brown and Blue",
-    "color_codes": "-webkit-gradient(linear-gradient(180deg, rgba(82,74,63,1) 0%, rgba(90,103,136,1) 51%))",
+    "color_codes": "linear-gradient(180deg, rgba(82,74,63,1) 0%, rgba(90,103,136,1) 51%)",
     "hair_length": "Past Collarbones",
     "long": 75,
     "era_name": "Better in Blue",
