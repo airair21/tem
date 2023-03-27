@@ -990,8 +990,8 @@ const hairs = [
     // Create the inner HTML content
     const hairHTML = `
     <div class="split">   
-      <span class="image">
-        <img src="${hair.image_url}" id="${hair.element}" name="${hair.element}">
+      <span class="image" id="${hair.element}" name="${hair.element}">
+        <img src="${hair.image_url}">
       </span>
       <span class="text">
         <ul>
