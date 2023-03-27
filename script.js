@@ -1036,6 +1036,7 @@ const hairs = [
 
     const lis = document.querySelectorAll('.submenu li')
 
+    //color filter
     for (let i = 0; i < lis.length; i++) {
       lis[i].addEventListener("click", function(e) {
         const li = e.target
@@ -1046,6 +1047,25 @@ const hairs = [
 
         hairs.forEach(function(hair) {
           if (hair.color.toLowerCase().includes(buttonColor)) {
+            renderHair(hair)
+          }
+          else if (buttonColor == 'all') {
+            renderHair(hair)
+          }
+        })  
+      });
+    }
+    //length filter
+    for (let i = 0; i < lis.length; i++) {
+      lis[i].addEventListener("click", function(e) {
+        const li = e.target
+        const buttonColor = li.innerText.toLowerCase()
+
+        // clear out list
+        hairsList.innerHTML = ''
+
+        hairs.forEach(function(hair) {
+          if (hair.hair_length.toLowerCase().includes(buttonColor)) {
             renderHair(hair)
           }
           else if (buttonColor == 'all') {
