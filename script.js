@@ -1067,7 +1067,7 @@ const hairs = [
 
     const graveHTML = `
     
-    <a href="obituary.html/#${hair.element}">
+    <a href="airair21.github.io/tem/obituary.html/#${hair.element}">
       <div class="headstone">
         <img src="${hair.image_url}">
       </div>
