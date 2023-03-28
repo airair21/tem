@@ -267,8 +267,8 @@ const hairs = [
     "color_codes": "#FFFFFF",
     "hair_length": "Past Collarbones",
     "long": 77,
-    "era_name": "",
-    "fun_fact": "",
+    "era_name": "Weirdness",
+    "fun_fact": "I don't even know anymore...",
     "grave": "",
     "image_url": "hair_assets/2021rainbow.jpg"
   },
@@ -410,7 +410,7 @@ const hairs = [
     "color_codes": "linear-gradient(180deg, rgba(28,73,173,1) 0%, rgba(123,115,106,1) 44%, rgba(138,50,160,1) 100%)",
     "hair_length": "At Chest",
     "long": 82,
-    "era_name": "",
+    "era_name": "More Dye Lost",
     "fun_fact": "For some reason the NYC water seemed to be removing my dye from my roots and front strands only...",
     "grave": "",
     "image_url": "hair_assets/2021bluepurplecricket.jpg"
@@ -579,7 +579,7 @@ const hairs = [
     "color_codes": "linear-gradient(180deg, rgba(32,0,0,1) 0%, rgba(70,68,125,1) 20%, rgba(80,51,71,1) 65%, rgba(43,32,49,1) 90%)",
     "hair_length": "Shoulder-Length with an Undercut",
     "long": 55,
-    "era_name": "",
+    "era_name": "Blue and Purple Under Light",
     "fun_fact": "The purple dye I bought turned out blue and did not look good, so I put red dye over everything and came out with this dark blue-ish purple.",
     "grave": "",
     "image_url": "hair_assets/2022purple.jpg"
@@ -592,7 +592,7 @@ const hairs = [
     "color_codes": "linear-gradient(180deg, rgba(32,0,0,1) 0%, rgba(70,68,125,1) 20%, rgba(80,51,71,1) 65%, rgba(43,32,49,1) 90%)",
     "hair_length": "Shoulder-Length with an Undercut",
     "long": 55,
-    "era_name": "",
+    "era_name": "Dark Purple Overall",
     "fun_fact": "This hair looked very different depending on lighting and how close you were to it.",
     "grave": "",
     "image_url": "hair_assets/2022purplehearts.JPG"
@@ -605,7 +605,7 @@ const hairs = [
     "color_codes": "linear-gradient(180deg, rgba(32,0,0,1) 0%, rgba(70,68,125,1) 20%, rgba(80,51,71,1) 65%, rgba(43,32,49,1) 90%)",
     "hair_length": "Shoulder-Length with an Undercut",
     "long": 55,
-    "era_name": "",
+    "era_name": "But Somehow Blue in the Bathroom",
     "fun_fact": "It looked blue in artificial, cold lighting.",
     "grave": "",
     "image_url": "hair_assets/2022darkbluemirror.jpeg"
@@ -619,7 +619,7 @@ const hairs = [
     "hair_length": "Shoulder-Length with an Undercut",
     "long": 55,
     "era_name": "Plain Purple",
-    "fun_fact": "But in this natural lighting it looked much more purple than blue.",
+    "fun_fact": "But in this natural lighting it looked much more purple than blue. (This and the previous three photos were all two days apart.)",
     "grave": "yes",
     "image_url": "hair_assets/2022purple.jpeg"
   },
