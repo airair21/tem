@@ -190,7 +190,7 @@ const hairs = [
     "hair_length": "At Collarbones",
     "long": 68,
     "era_name": "Fall Fun",
-    "fun_fact": "",
+    "fun_fact": "Growing out my hair from the pixie cut made me realize how much I missed and enjoyed my natural hair, but I also getting bored. Insert perfect solution: split dye!",
     "grave": "yes",
     "image_url": "hair_assets/2020firstblue.jpg"
   },
@@ -203,7 +203,7 @@ const hairs = [
     "hair_length": "At Collarbones",
     "long": 70,
     "era_name": "Faded Christmas",
-    "fun_fact": "",
+    "fun_fact": "The cat's name is Eevie and she is a toe eating gremlin.",
     "grave": "yes",
     "image_url": "hair_assets/2020fadegreen.JPG"
   },
@@ -268,7 +268,7 @@ const hairs = [
     "hair_length": "Past Collarbones",
     "long": 77,
     "era_name": "Weirdness",
-    "fun_fact": "I don't even know anymore...",
+    "fun_fact": "My hair was starting to get extra frizzy from all the deadness.",
     "grave": "",
     "image_url": "hair_assets/2021rainbow.jpg"
   },
@@ -281,7 +281,7 @@ const hairs = [
     "hair_length": "Past Collarbones",
     "long": 78,
     "era_name": "Artic Fox Never Again",
-    "fun_fact": "I hold a grudge against this dye fro getting blue over everything WHEN DRY!",
+    "fun_fact": "I hold a grudge against this dye for getting blue over everything WHEN DRY!",
     "grave": "yes",
     "image_url": "hair_assets/2021bluekissy.jpeg"
   },
@@ -333,7 +333,7 @@ const hairs = [
     "hair_length": "Past Collarbones",
     "long": 79,
     "era_name": "Graduating An Idiot",
-    "fun_fact": "I decided to use black (bad decision) to cover up a accidental bleached spot on my natural side of hair.",
+    "fun_fact": "I decided to use black (bad decision) to cover up a accidental bleached spot on my natural side of hair. Red to match school colors.",
     "grave": "",
     "image_url": "hair_assets/2021redgown.JPG"
   },
@@ -346,7 +346,7 @@ const hairs = [
     "hair_length": "Past Collarbones",
     "long": 79,
     "era_name": "Officially Not a High School Dropout",
-    "fun_fact": "",
+    "fun_fact": "My first ever high school party, too bad it was after everything was over.",
     "grave": "yes",
     "image_url": "hair_assets/2021redgrad.jpeg"
   },
@@ -359,7 +359,7 @@ const hairs = [
     "hair_length": "At Chest",
     "long": 80,
     "era_name": "...",
-    "fun_fact": "",
+    "fun_fact": "We don't need to discuss this one.",
     "grave": "",
     "image_url": "hair_assets/2021pinkmaid.JPG"
   },
@@ -424,7 +424,7 @@ const hairs = [
     "hair_length": "At Chest",
     "long": 83,
     "era_name": "Playing the Blues",
-    "fun_fact": "I loved this blue so much!! Too bad it didn't stay that long.",
+    "fun_fact": "I loved this blue so much!! So sad it didn't stay that long.",
     "grave": "yes",
     "image_url": "hair_assets/2021bluepiano.jpg"
   },
@@ -436,7 +436,7 @@ const hairs = [
     "color_codes": "linear-gradient(180deg, rgba(77,92,85,1) 0%, rgba(124,118,97,1) 100%)",
     "hair_length": "At Chest",
     "long": 84,
-    "era_name": "First Year Classes are the Bane of my Existence",
+    "era_name": "First Year Classes are the Bane of My Existence",
     "fun_fact": "Because originally my hair had different levels of pre bleaching (split dye) so whatever single color I put on my hair afterwards always faded into two different colors. And usually ended up looking different after every single shower.",
     "grave": "",
     "image_url": "hair_assets/2021bluegreenscrew.jpeg"
@@ -450,7 +450,7 @@ const hairs = [
     "hair_length": "At Chest",
     "long": 84,
     "era_name": "Purple? More like Burple!",
-    "fun_fact": "I plungered the bath drain with my roommate after finding it wouldn't drain, and out came a tea bag... and it still wouldn't drain!",
+    "fun_fact": "After dying my hair, the shower was clogged so (obviously) I plungered the bath drain with my roommate and out came a tea bag... and it still wouldn't drain!",
     "grave": "yes",
     "image_url": "hair_assets/2021purple.jpeg"
   },
@@ -463,7 +463,7 @@ const hairs = [
     "hair_length": "At Chest",
     "long": 84,
     "era_name": "Burple!",
-    "fun_fact": "Color looks different in different lighting, what can I say?",
+    "fun_fact": "Literally the next day. Color looks different in different lighting, what can I say?",
     "grave": "",
     "image_url": "hair_assets/2021purplepink.jpeg"
   },
@@ -476,7 +476,7 @@ const hairs = [
     "hair_length": "At Chest",
     "long": 85,
     "era_name": "Thanksgiving Pink",
-    "fun_fact": "I ended up accidentally matchiing my friend (who isn't pictured)!",
+    "fun_fact": "I ended up accidentally (mostly) matching my friend (who is pictured next)!",
     "grave": "yes",
     "image_url": "hair_assets/2021pinkmandy.jpeg"
   },
@@ -723,7 +723,7 @@ const hairs = [
     "hair_length": "Past Shoulders with an Undercut",
     "long": 64,
     "era_name": "Mangled Magenta",
-    "fun_fact": "The dye said 'Hot Hot Pink'! Tell me why it came out magenta?!!??? I loathe that color!!!!",
+    "fun_fact": "The dye said 'Hot Hot Pink'! Tell me why it came out magenta?!!??? I dispise that color!!!!",
     "grave": "yes",
     "image_url": "hair_assets/2022magenta.jpeg"
   },
