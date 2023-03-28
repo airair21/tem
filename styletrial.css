@@ -653,7 +653,7 @@ a {
   }
 
 
-@media (max-width: 700px) {
+@media (max-width: 1000px) {
   * {
     overflow-y: hidden;
   }
@@ -664,12 +664,30 @@ a {
   h1 {
     font-size: 50px;
     background-color: none;
+    color: none;
+    margin: 0;
   }
   .titletext {
+    padding-right: 1%;
+    padding-left: 3%;
     font-size: 50px;
-    letter-spacing: 10px;
+    letter-spacing: 5px;
     margin-top: 10%;
     background-color: none;
+    color: none;
+
+    animation: none;
+  }
+  .text-box {
+    background-color: none;
+    color: none;
+  }
+  #title {
+    background-color: none;
+    color: none;
+    margin-left: 10px;
+    margin-top: 5px;
+    line-height: .2;
   }
   #graveyard {
     background-size: cover;
@@ -682,5 +700,15 @@ a {
     margin-top: 20px;
     margin-bottom: 50vh;
     margin: 5px;
+  }
+  .blood {
+    background: var(--hover-color);
+  }
+  .headstone img {
+    opacity: 100;
+  }
+
+  #hairs-list {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
