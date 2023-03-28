@@ -509,89 +509,7 @@ a {
   text-decoration: none;
 }
 
-
-/*
-text {
-  transform: translateY(3px);
-  animation: wavyText 1.3s alternate steps(2, end) infinite;
-}
-@keyframes wavyText {
-  20%,
-  100% {
-    transform: translate(0, 3px);
-  }
-
-  0% {
-    transform: translate(0, 0px);
-  }
-  10% {
-    transform: translate(0, 3px);
-  }
-}
-
-.T {
-  animation-delay: 0;
-}
-.h {
-  animation-delay: 0.1s;
-}
-.e {
-  animation-delay: 0.15s;
-}
-.E {
-  animation-delay: 0.2s;
-}
-.v {
-  animation-delay: 0.25s;
-}
-.e2 {
-  animation-delay: 0.3s;
-}
-.r {
-  animation-delay: 0.35s;
-}
-.dash {
-  animation-delay: 0.4s;
-}
-.C {
-  animation-delay: 0.45s;
-}
-.h {
-  animation-delay: 0.5s;
-}
-.a {
-  animation-delay: 0.55s;
-}
-.n {
-  animation-delay: 0.6s;
-}
-.g {
-  animation-delay: 0.65s;
-}
-.i {
-  animation-delay: 0.7s;
-}
-.n2 {
-  animation-delay: 0.75s;
-}
-.g2 {
-  animation-delay: 0.8s;
-}
-.M {
-  animation-delay: 0.85s;
-}
-.a2 {
-  animation-delay: 0.9s;
-}
-.n3 {
-  animation-delay: 0.95s;
-}
-.e3 {
-  animation-delay: 1s;
-}
-*/
-
-.text-box{
+.text-box {
   font-size: 144px;
   position: absolute;
   letter-spacing: -10.5px;
@@ -603,7 +521,7 @@ text {
 
   background-color: #546f7a;
 }
-span{
+span {
   animation: mover 6s linear infinite;
   display: inline-block;
   /*
@@ -633,103 +551,136 @@ span{
       */
     }
 }
-span:nth-child(1)
-{
-  animation-delay: 0.5s;
-}
-span:nth-child(2)
-{
-  animation-delay: 1s;
-}
-span:nth-child(3)
-{
-  animation-delay: 1.5s;
-}
-span:nth-child(4)
-{
-  animation-delay: 2s;
-}
-span:nth-child(5)
-{
-  animation-delay: 2.5s;
-}
-span:nth-child(6)
-{
-  animation-delay: 3s;
-}
-span:nth-child(7)
-{
-  animation-delay: 3.5s;
-}
-span:nth-child(8)
-{
-  animation-delay: 4s;
-}
-span:nth-child(9)
-{
-  animation-delay: 4.5s;
-}
-span:nth-child(10)
-{
-  animation-delay: 5s;
-}
-span:nth-child(11)
-{
-  animation-delay: 5.5s;
-}
-span:nth-child(12)
-{
-  animation-delay: 6s;
-}
-span:nth-child(13)
-{
-  animation-delay: 6.5s;
-}
-span:nth-child(14)
-{
-  animation-delay: 7s;
-}
-span:nth-child(15)
-{
-  animation-delay: 8s;
-}
-span:nth-child(16)
-{
-  animation-delay: 8.5s;
-}
-span:nth-child(17)
-{
-  animation-delay: 9s;
-}
-span:nth-child(18)
-{
-  animation-delay: 9.5s;
-}
-span:nth-child(19)
-{
-  animation-delay: 10s;
-}
-span:nth-child(20)
-{
-  animation-delay: 10.5s;
-}
-span:nth-child(21)
-{
-  animation-delay: 11s;
-}
-span:nth-child(22)
-{
-  animation-delay: 11.5s;
-}
-span:nth-child(23)
-{
-  animation-delay: 12s;
-}
-span:nth-child(24)
-{
-  animation-delay: 12.5s;
-}
-span:nth-child(25)
-{
-  animation-delay: 13s;
+  span:nth-child(1)
+  {
+    animation-delay: 0.5s;
+  }
+  span:nth-child(2)
+  {
+    animation-delay: 1s;
+  }
+  span:nth-child(3)
+  {
+    animation-delay: 1.5s;
+  }
+  span:nth-child(4)
+  {
+    animation-delay: 2s;
+  }
+  span:nth-child(5)
+  {
+    animation-delay: 2.5s;
+  }
+  span:nth-child(6)
+  {
+    animation-delay: 3s;
+  }
+  span:nth-child(7)
+  {
+    animation-delay: 3.5s;
+  }
+  span:nth-child(8)
+  {
+    animation-delay: 4s;
+  }
+  span:nth-child(9)
+  {
+    animation-delay: 4.5s;
+  }
+  span:nth-child(10)
+  {
+    animation-delay: 5s;
+  }
+  span:nth-child(11)
+  {
+    animation-delay: 5.5s;
+  }
+  span:nth-child(12)
+  {
+    animation-delay: 6s;
+  }
+  span:nth-child(13)
+  {
+    animation-delay: 6.5s;
+  }
+  span:nth-child(14)
+  {
+    animation-delay: 7s;
+  }
+  span:nth-child(15)
+  {
+    animation-delay: 8s;
+  }
+  span:nth-child(16)
+  {
+    animation-delay: 8.5s;
+  }
+  span:nth-child(17)
+  {
+    animation-delay: 9s;
+  }
+  span:nth-child(18)
+  {
+    animation-delay: 9.5s;
+  }
+  span:nth-child(19)
+  {
+    animation-delay: 10s;
+  }
+  span:nth-child(20)
+  {
+    animation-delay: 10.5s;
+  }
+  span:nth-child(21)
+  {
+    animation-delay: 11s;
+  }
+  span:nth-child(22)
+  {
+    animation-delay: 11.5s;
+  }
+  span:nth-child(23)
+  {
+    animation-delay: 12s;
+  }
+  span:nth-child(24)
+  {
+    animation-delay: 12.5s;
+  }
+  span:nth-child(25)
+  {
+    animation-delay: 13s;
+  }
+
+
+@media (max-width: 600px) {
+  * {
+    overflow-y: hidden;
+  }
+  body {
+    font-size: 20px;
+    overflow-y: hidden;
+  }
+  h1 {
+    font-size: 50px;
+    background-color: none;
+  }
+  span {
+    font-size: 50px;
+    letter-spacing: 10px;
+    margin-top: 10%;
+    background-color: none;
+  }
+  #graveyard {
+    background-size: cover;
+    overflow-y: hidden;
+    background-repeat: repeat-x;
+    height: 100%;
+  }
+  #newspaper {
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 50vh;
+    margin: 5px;
+  }
 }
