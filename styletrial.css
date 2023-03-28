@@ -654,12 +654,14 @@ a {
 
 
 @media (max-width: 1000px) {
-  * {
+  
+  .overflow {
     overflow-y: hidden;
   }
   body {
     font-size: 20px;
     overflow-y: hidden;
+    padding: 0;
   }
   h1 {
     font-size: 50px;
@@ -710,5 +712,22 @@ a {
 
   #hairs-list {
     grid-template-columns: repeat(1, 1fr);
+    gap: 5px;
+    margin-bottom: 0;
+    padding: 0;
+    overflow: scroll;
+  }
+  .hair {
+    backdrop-filter: blur(0px);
+    padding: 2px;
+  }
+  .nav {
+    overflow: scroll;
+  }
+  .container {
+    padding: 0;
+  }
+  .main-menu {
+    grid-template-columns: repeat(4, 180px);
   }
 }
