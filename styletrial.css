@@ -728,6 +728,6 @@ a {
     padding: 0;
   }
   .main-menu {
-    grid-template-columns: repeat(4, 180px);
+    grid-template-columns: repeat(2, 180px);
   }
 }
