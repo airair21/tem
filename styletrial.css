@@ -521,7 +521,7 @@ a {
 
   background-color: #546f7a;
 }
-span {
+span .titletext{
   animation: mover 6s linear infinite;
   display: inline-block;
   /*
@@ -551,109 +551,109 @@ span {
       */
     }
 }
-  span:nth-child(1)
+  span .titletext:nth-child(1)
   {
     animation-delay: 0.5s;
   }
-  span:nth-child(2)
+  span .titletext:nth-child(2)
   {
     animation-delay: 1s;
   }
-  span:nth-child(3)
+  span .titletext:nth-child(3)
   {
     animation-delay: 1.5s;
   }
-  span:nth-child(4)
+  span .titletext:nth-child(4)
   {
     animation-delay: 2s;
   }
-  span:nth-child(5)
+  span .titletext:nth-child(5)
   {
     animation-delay: 2.5s;
   }
-  span:nth-child(6)
+  span .titletext:nth-child(6)
   {
     animation-delay: 3s;
   }
-  span:nth-child(7)
+  span .titletext:nth-child(7)
   {
     animation-delay: 3.5s;
   }
-  span:nth-child(8)
+  span .titletext:nth-child(8)
   {
     animation-delay: 4s;
   }
-  span:nth-child(9)
+  span .titletext:nth-child(9)
   {
     animation-delay: 4.5s;
   }
-  span:nth-child(10)
+  span .titletext:nth-child(10)
   {
     animation-delay: 5s;
   }
-  span:nth-child(11)
+  span .titletext:nth-child(11)
   {
     animation-delay: 5.5s;
   }
-  span:nth-child(12)
+  span .titletext:nth-child(12)
   {
     animation-delay: 6s;
   }
-  span:nth-child(13)
+  span .titletext:nth-child(13)
   {
     animation-delay: 6.5s;
   }
-  span:nth-child(14)
+  span .titletext:nth-child(14)
   {
     animation-delay: 7s;
   }
-  span:nth-child(15)
+  span .titletext:nth-child(15)
   {
     animation-delay: 8s;
   }
-  span:nth-child(16)
+  span .titletext:nth-child(16)
   {
     animation-delay: 8.5s;
   }
-  span:nth-child(17)
+  span .titletext:nth-child(17)
   {
     animation-delay: 9s;
   }
-  span:nth-child(18)
+  span .titletext:nth-child(18)
   {
     animation-delay: 9.5s;
   }
-  span:nth-child(19)
+  span .titletext:nth-child(19)
   {
     animation-delay: 10s;
   }
-  span:nth-child(20)
+  span .titletext:nth-child(20)
   {
     animation-delay: 10.5s;
   }
-  span:nth-child(21)
+  span .titletext:nth-child(21)
   {
     animation-delay: 11s;
   }
-  span:nth-child(22)
+  span .titletext:nth-child(22)
   {
     animation-delay: 11.5s;
   }
-  span:nth-child(23)
+  span .titletext:nth-child(23)
   {
     animation-delay: 12s;
   }
-  span:nth-child(24)
+  span .titletext:nth-child(24)
   {
     animation-delay: 12.5s;
   }
-  span:nth-child(25)
+  span .titletext:nth-child(25)
   {
     animation-delay: 13s;
   }
 
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   * {
     overflow-y: hidden;
   }
@@ -665,7 +665,7 @@ span {
     font-size: 50px;
     background-color: none;
   }
-  span {
+  span .titletext {
     font-size: 50px;
     letter-spacing: 10px;
     margin-top: 10%;
